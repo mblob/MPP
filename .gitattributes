@@ -1,1 +1,4 @@
 MPP.sublime-project export-ignore
+MPP.sublime-workspace export-ignore
+.gitignore export-ignore
+.gitattributes export-ignore
