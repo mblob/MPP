@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "patches/99_tweakscale.cfg",
+			"settings":
+			{
+				"buffer_size": 255,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/GAMING/_SA/KSPCurrent/GameData/KerbalEngineer/Parts/EngineerChip/EngineerChip.cfg",
+			"settings":
+			{
+				"buffer_size": 1109,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: i",
+		"selected_items":
+		[
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MPP",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MPP/patches"
+	],
+	"file_history":
+	[
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MTT/Localization/en-us.cfg",
+		"/C/GAMING/_SA/Kerbal Space Program/saves/default/persistent.sfs",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MTT/Patches/MTTPartsPatch.cfg",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MTT/Tree/MTT.cfg",
+		"/C/GAMING/_SA/KSPCurrent/CKAN/GUIConfig.xml",
+		"/C/GAMING/_SA/KSPCurrent/GameData/EnvironmentalVisualEnhancements/License.txt",
+		"/C/GAMING/_SA/KSPCurrent/GameData/ShipManifest/ShipManifest.version",
+		"/C/GAMING/_SA/KSPCurrent/GameData/NEBULA/decals/configc.cfg",
+		"/C/Users/mblob/AppData/Local/Temp/7zO0CED34AA/part.cfg",
+		"/C/GAMING/_SA/KSPCurrent/GameData/JSI/RasterPropMonitor/RasterPropMonitor.version",
+		"/C/GAMING/_SA/KSPCurrent/GameData/NEBULA/decals/readme.txt",
+		"/C/GAMING/_SA/KSPCurrent/GameData/NEBULA/decals/config.cfg",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MPP/Versioning/MTT.version",
+		"/C/Program Files/AMD/CIM/Reports/Report.xml",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MTT/Tree/MTTPartsPatch.cfg",
+		"/C/Users/mblob/AppData/Roaming/Sublime Text 3/Packages/User/Copy KerbalDevToKerbal.sublime-build",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MblobTechTree/Tree/MblobTechTree.cfg",
+		"/C/GAMING/_SA/KSPCurrent/GameData/mblob/CTTPatch.cfg",
+		"/C/GAMING/_SA/KSPCurrent/GameData/CommunityTechTree/Tree/CommunityTechTree.cfg",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/ModuleManager.TechTree",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MblobTechTree/Localization/en-us.cfg",
+		"/C/GAMING/_SA/KSPCurrent/GameData/CommunityTechTree/Localization/en-us.cfg",
+		"/C/GAMING/_SA/KSPCurrent/GameData/CommunityTechTree/Versioning/CommunityTechTree.version",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MblobTechTree/Tree/CommunityTechTree.cfg",
+		"/C/GAMING/_SA/Kerbal Space Program/GameData/MblobTechTree/Versioning/MblobTechTree.version",
+		"/C/GAMING/_SA/KSP DEV/GameData/mblob/MblobTechTree.cfg",
+		"/D/Gaming/_SA/KTEST/settings.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/StorageDrawers.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/immersiveengineering.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/sponge/global.conf",
+		"/D/Gaming/_SA/Minecraft Server/config/io.github.hsyyid.essentialcmds/config.conf",
+		"/D/Gaming/_SA/Minecraft Server/config/Quark.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/sponge/worlds/appliedenergistics2/storage_cell/dimension.conf",
+		"/D/Gaming/_SA/Minecraft Server/config/sponge/worlds/minecraft/overworld/dimension.conf",
+		"/D/Gaming/_SA/Minecraft Server/config/enderio/EnderIO.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/flexiblelogin/flexiblelogin.conf",
+		"/D/Gaming/_SA/MultiMC/instances/1.10.2/minecraft/config/ingameInfo.txt",
+		"/D/eula.1036.txt",
+		"/C/GAMING/_SA/KSPCurrent/buildID.txt",
+		"/C/GAMING/_SA/KSPCurrent/GameData/KerbalConstructionTime/.version",
+		"/C/GAMING/_SA/KSPCurrent/saves/Space Odyssey/persistent.sfs",
+		"/C/GAMING/_SA/KSPCurrent/GameData/ScrapYard/ScrapYard.version",
+		"/C/GAMING/_SA/KSPCurrent/GameData/KerbalConstructionTime/KCT_Config.txt",
+		"/C/GAMING/_SA/KSPCurrent/GameData/ScrapYard/ModuleSYPartTracker.cfg",
+		"/C/GAMING/_SA/KSPCurrent/GameData/ScrapYard/PluginData/ScrapYard.cfg",
+		"/C/GAMING/_SA/KSPCurrent/GameData/VesselView/VesselView.version",
+		"/C/GAMING/_SA/KSPCurrent/GameData/SCANsat/SCANsat.version",
+		"/C/GAMING/_SA/KSPCurrent/GameData/CustomBarnKit/CustomBarnKit.version",
+		"/C/GAMING/_SA/KSPCurrent/GameData/000_Toolbar/Toolbar.version",
+		"/D/Gaming/_SA/Minecraft Server/config/luckperms/luckperms.conf",
+		"/E/Dev/Minecraft/RessourcePack/Mystik/pack.mcmeta",
+		"/D/Gaming/_SA/Minecraft Server/config/recycler.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/storagedrawersextra.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/Mercurius.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/forge.cfg",
+		"/C/Users/mblob/AppData/Local/Temp/7zOC454D08A/MagiCore.version",
+		"/C/Users/mblob/AppData/Local/Temp/7zOC4574AAB/.version",
+		"/C/Users/mblob/AppData/Local/Temp/7zOC44A65F2/.version",
+		"/C/Users/mblob/AppData/Local/Temp/7zO45E4C251/README.txt",
+		"/C/Users/mblob/AppData/Local/Temp/7zO45E49801/ForModders.txt",
+		"/D/Gaming/_SA/Minecraft Server/config/ChickenChunks.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/railcraft/modules.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/railcraft/railcraft.cfg",
+		"/D/Gaming/_SA/Minecraft Server/server.properties",
+		"/E/Dev/Minecraft/RessourcePack/Mystic/assets/minecraft/textures/blocks/water_flow.png.mcmeta",
+		"/E/Dev/Minecraft/RessourcePack/Invictus-4.2/assets/minecraft/textures/blocks/glowstone.png.mcmeta",
+		"/E/Dev/Minecraft/RessourcePack/Fanver_Modded_Universal/assets/minecraft/blockstates/stone.json",
+		"/E/Dev/Minecraft/RessourcePack/Invictus-4.2/assets/minecraft/blockstates/stone.json",
+		"/E/Dev/Minecraft/RessourcePack/Invictus-4.2/assets/minecraft/models/item/stone.json",
+		"/D/Gaming/_SA/Minecraft Server/config/nucleus/main.conf",
+		"/E/Dev/Minecraft/RessourcePack/PureBDcraft 128x MC110/assets/minecraft/shaders/post/creeper.json",
+		"/E/Dev/Minecraft/RessourcePack/PureBDcraft 128x MC110/assets/minecraft/shaders/program/fisheye.fsh",
+		"/E/Dev/Minecraft/RessourcePack/PureBDcraft 128x MC110/assets/minecraft/shaders/program/fisheye.json",
+		"/E/Dev/Minecraft/RessourcePack/Invictus-4.2/assets/minecraft/mcpatcher/ctm/blocks/grass_side_fancy/grass_side_2.properties",
+		"/E/Dev/Minecraft/RessourcePack/Invictus-4.2/assets/minecraft/models/block/stone/1.json",
+		"/E/Dev/Minecraft/RessourcePack/Mystic/assets/minecraft/blockstates/stone.json",
+		"/E/Dev/Minecraft/RessourcePack/Invictus-4.2/assets/minecraft/shaders/post/bumpy.json",
+		"/E/Dev/Minecraft/RessourcePack/Invictus-4.2/assets/minecraft/shaders/shader_map.txt",
+		"/C/Users/mblob/Desktop/Fanver_Modded_Universal/pack.mcmeta",
+		"/D/Gaming/_SA/MultiMC/instances/1.10.2/minecraft/config/rftools/rftools.cfg",
+		"/D/Gaming/_SA/MultiMC/instances/1.10.2/minecraft/config/mcjtylib.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/endercore/endercore.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/rftools/rftools.cfg",
+		"/D/Gaming/_SA/MultiMC/instances/1.10.2/minecraft/config/InGameInfoXML.cfg",
+		"/D/Gaming/_SA/MultiMC/instances/1.10.2/minecraft/config/inGameInfo.json",
+		"/E/temp/CS6/install.txt",
+		"/C/Users/mblob/Desktop/New Text Document.txt",
+		"/C/Users/mblob/Desktop/New Text Document (2).txt",
+		"/D/Gaming/_SA/MultiMC/instances/1.10.2/minecraft/config/theoneprobe.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/mcjtylib.cfg",
+		"/D/Gaming/_SA/Minecraft Server/config/railcraft/blocks.cfg",
+		"/C/Users/mblob/AppData/Local/Temp/7zO0979252D/pack.mcmeta",
+		"/C/Users/mblob/AppData/Local/Temp/7zO09795CFD/README.md",
+		"/C/Users/mblob/AppData/Local/Temp/7zO0979765D/config.json",
+		"/C/Users/mblob/Desktop/Mystic-0.1/pack.mcmeta",
+		"/E/Downloads/tomato_v128_MFNET_HUB_v1.1.cfg",
+		"/F/CS6/install.txt",
+		"/C/Users/mblob/AppData/Local/Temp/7zO8D45DA9C/how to update.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fund",
+			"start",
+			"fund",
+			"spawner",
+			"tesla"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "patches/99_tweakscale.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/GAMING/_SA/KSPCurrent/GameData/KerbalEngineer/Parts/EngineerChip/EngineerChip.cfg",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Kerbal Space Program Configuration Syntax/KSP configuration.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Copy KerbalDevToKerbal.sublime-build",
+	"project": "MPP.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
