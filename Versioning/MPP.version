@@ -1,7 +1,7 @@
 {
     "NAME":"MPP",
     "URL":"https://raw.githubusercontent.com/mblob/MPP/master/Versioning/MTT.version",
-    "DOWNLOAD":"http://forum.kerbalspaceprogram.com/index.php?/topic/90530-113-community-tech-tree-24-last-updated-180416",
+    "DOWNLOAD":"https://github.com/mblob/MPP/releases",
     "VERSION":
     {
         "MAJOR":1,
